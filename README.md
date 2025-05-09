@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+👋 Hi, I’m Zain
+👀 I am 20 years old 
+🌱 I’m currently learning nothing
+
+
+
 <!--
 **2ain/2ain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
