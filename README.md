@@ -2,8 +2,7 @@
 
 
 👋 Hi, I’m Zain
-👀 I am 20 years old 
-🌱 I’m currently learning nothing
+
 
 
 
