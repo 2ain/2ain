@@ -3,6 +3,13 @@
 
 👋 Hi, I’m Zain
 
+💬 Age: 20
+
+😄 Pronouns: He/Him
+
+🔭 Fun fact: Rogue planets exist. These are planets that drift alone through space, not orbiting any star.
+
+
 
 
 
